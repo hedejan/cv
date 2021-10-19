@@ -29,3 +29,7 @@ a:hover {
 .circular {
   border-radius: 100%;
 }
+
+a:hover {
+  background-color: yellow;
+}
